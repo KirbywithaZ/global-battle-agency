@@ -1,1 +1,1 @@
-This is the read me ig
+This project is currently in development.
